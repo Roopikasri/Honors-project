@@ -39,7 +39,8 @@ Introducing our Event Management System, a solution developed as part of our fin
      **ems/api:** nodemon start<br>
      if the command is not working use **PowerShell -ExecutionPolicy Bypass nodemon** this command.
 7. Start the Client:<br>
-      **ems/client:** npm run dev
+      **ems/client:** 
+      
 
 **The application should now be running. You can access it at http://localhost:5173**<br>
 **The Server is running on http://localhost:4000**
